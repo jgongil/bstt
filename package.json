@@ -1,0 +1,15 @@
+{
+  "name": "bst_erc20",
+  "version": "1.0.0",
+  "description": "Blockchain Analyzer Team ERC-20 token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Gonzalez Gil",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
